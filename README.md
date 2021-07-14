@@ -1,4 +1,5 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/iancampelo?template=classic&repositories.forks=true&isocalendar=1&languages=1&lines=1&achievements=1&notable=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=America%2FSao_Paulo)
+
 
 <!--
 **iancampelo/iancampelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
